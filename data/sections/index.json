@@ -5,10 +5,10 @@
     "name": "Hero",
     "title": null,
     "data": {
-      "heroImage": "/api/upload/sections/hero-image.jpeg",
+      "heroImage": "/api/upload/sections/hero-image.png",
       "firstName": "Andrei",
       "lastName": "Arkhipov",
-      "job": "Full-stack developer",
+      "job": "Hardworking and passionate full-stack developer",
       "stack": "Node.js, Next.js, ReactJS, TypeScript",
       "birthDate": "1996-09-24",
       "contacts": {
