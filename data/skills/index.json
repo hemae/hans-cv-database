@@ -1,0 +1,187 @@
+[
+  {
+    "id": "1",
+    "type": "hard",
+    "data": {
+      "title": "[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)",
+      "image": "/api/upload/skills/javascript.png"
+    }
+  },
+  {
+    "id": "2",
+    "type": "hard",
+    "data": {
+      "title": "[TypeScript](https://www.typescriptlang.org/)",
+      "image": "/api/upload/skills/typescript.png"
+    }
+  },
+  {
+    "id": "3",
+    "type": "hard",
+    "data": {
+      "title": "[Webpack](https://webpack.js.org/)",
+      "image": "/api/upload/skills/webpack.png"
+    }
+  },
+  {
+    "id": "4",
+    "type": "hard",
+    "data": {
+      "title": "[ReactJS](https://en.reactjs.org/)",
+      "image": "/api/upload/skills/reactjs.png"
+    }
+  },
+  {
+    "id": "5",
+    "type": "hard",
+    "data": {
+      "title": "[Next.js](https://nextjs.org/)",
+      "image": "/api/upload/skills/nextjs.png"
+    }
+  },
+  {
+    "id": "6",
+    "type": "hard",
+    "data": {
+      "title": "[Node.js](https://nodejs.org/)",
+      "image": "/api/upload/skills/nodejs.png"
+    }
+  },
+  {
+    "id": "7",
+    "type": "hard",
+    "data": {
+      "title": "[SCSS](https://sass-lang.com/)",
+      "image": "/api/upload/skills/sass.jpeg"
+    }
+  },
+  {
+    "id": "8",
+    "type": "hard",
+    "data": {
+      "title": "[Selenium](https://www.selenium.dev/)",
+      "image": "/api/upload/skills/selenium.png"
+    }
+  },
+  {
+    "id": "10",
+    "type": "hard",
+    "data": {
+      "title": "[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)",
+      "image": "/api/upload/skills/html.png"
+    }
+  },
+  {
+    "id": "11",
+    "type": "hard",
+    "data": {
+      "title": "[MongoDB](https://www.mongodb.com/)",
+      "image": "/api/upload/skills/mongodb.png"
+    }
+  },
+  {
+    "id": "12",
+    "type": "hard",
+    "data": {
+      "title": "[Git](https://git-scm.com/)",
+      "image": "/api/upload/skills/git.png"
+    }
+  },
+  {
+    "id": "13",
+    "type": "soft",
+    "data": {
+      "title": "Communication"
+    }
+  },
+  {
+    "id": "14",
+    "type": "soft",
+    "data": {
+      "title": "Self-motivation"
+    }
+  },
+  {
+    "id": "15",
+    "type": "soft",
+    "data": {
+      "title": "Responsibility"
+    }
+  },
+  {
+    "id": "16",
+    "type": "soft",
+    "data": {
+      "title": "Problem solving"
+    }
+  },
+  {
+    "id": "17",
+    "type": "soft",
+    "data": {
+      "title": "Decisiveness"
+    }
+  },
+  {
+    "id": "18",
+    "type": "soft",
+    "data": {
+      "title": "Ability to work under pressure and Time Managment"
+    }
+  },
+  {
+    "id": "19",
+    "type": "soft",
+    "data": {
+      "title": "Flexibility"
+    }
+  },
+  {
+    "id": "20",
+    "type": "tool",
+    "data": {
+      "title": "[WebStorm](https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=9641686245&term=webstorm&gclid=Cj0KCQjwlemWBhDUARIsAFp1rLU0cgW7qEzGTQBxHygDx8jSNnuKyudGjyA0pzJSUKUR98iijjtqCPEaAkOYEALw_wcB)",
+      "image": "/api/upload/skills/webstorm.png"
+    }
+  },
+  {
+    "id": "21",
+    "type": "tool",
+    "data": {
+      "title": "[PostMan](https://www.postman.com/)",
+      "image": "/api/upload/skills/postman.png"
+    }
+  },
+  {
+    "id": "22",
+    "type": "tool",
+    "data": {
+      "title": "[Jira](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=95003645449&campaign=9124878702&creative=542638212647&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51242189318&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjwlemWBhDUARIsAFp1rLX8JN6VA9jFGSBgLGo31aPhn2PFWgz_Hossa5B-rBCc4Kth_RR--M8aAtexEALw_wcB&gclsrc=aw.ds)",
+      "image": "/api/upload/skills/jira.png"
+    }
+  },
+  {
+    "id": "23",
+    "type": "tool",
+    "data": {
+      "title": "[Notion](https://www.notion.so/)",
+      "image": "/api/upload/skills/notion.png"
+    }
+  },
+  {
+    "id": "24",
+    "type": "tool",
+    "data": {
+      "title": "[GitHub](https://github.com/hemae)",
+      "image": "/api/upload/skills/github.jpeg"
+    }
+  },
+  {
+    "id": "25",
+    "type": "tool",
+    "data": {
+      "title": "[GitLab](https://gitlab.com/a.archipov)",
+      "image": "/api/upload/skills/gitlab.png"
+    }
+  }
+]

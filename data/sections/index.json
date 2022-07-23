@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1-hero",
+    "order": 1,
+    "name": "Hero",
+    "title": null,
+    "data": {
+      "heroImage": "/api/upload/sections/hero-image.jpeg",
+      "firstName": "Andrei",
+      "lastName": "Arkhipov",
+      "job": "Full-stack developer",
+      "stack": "Node.js, Next.js, ReactJS, TypeScript",
+      "birthDate": "1996-09-24",
+      "contacts": {
+        "telegram": {
+          "src": "https://t.me/hans_andersennn",
+          "content": "Contact by Telegram"
+        },
+        "email": {
+          "src": "hemae2468@gmail.com",
+          "content": "Send E-mail"
+        },
+        "phoneNumber": {
+          "src": "(+374) 55-80-25-79",
+          "content": "Contact by phone"
+        },
+        "location": {
+          "src": "https://www.google.com/maps/@40.1965056,44.4563456,12z",
+          "content": "Yerevan, Armenian Republic"
+        }
+      }
+    },
+    "createdAt": "123",
+    "updatedAt": "123"
+  },
+  {
+    "id": "2-links",
+    "order": 2,
+    "name": "Links",
+    "title": null,
+    "data": null
+  },
+  {
+    "id": "3-experience",
+    "order": 3,
+    "name": "Experience",
+    "title": "Experience",
+    "data": null
+  },
+  {
+    "id": "4-projects",
+    "order": 4,
+    "name": "Projects",
+    "title": "Participation in projects",
+    "data": null
+  },
+  {
+    "id": "5-skills",
+    "order": 5,
+    "name": "Skills",
+    "title": "Skills",
+    "data": null
+  },
+  {
+    "id": "6-educations",
+    "order": 6,
+    "name": "Educations",
+    "title": "Educations",
+    "data": null
+  },
+  {
+    "id": "7-languages",
+    "order": 7,
+    "name": "Languages",
+    "title": "Languages",
+    "data": null
+  }
+]

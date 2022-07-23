@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "order": 1,
+    "data": {
+      "title": "Condensed Matter Physics",
+      "src": "https://urfu.ru/en/",
+      "university": "Ural Federal University",
+      "country": "Russia",
+      "city": "Yekaterinburg",
+      "period": "September 2017 - July 2021",
+      "shortPeriod": "(2017 - 2021)",
+      "degree": "Bachelor",
+      "image": "/api/upload/educations/urfu.png"
+    }
+  },
+  {
+    "id": "2",
+    "order": 2,
+    "data": {
+      "title": "Mechatronics and Robototechnics",
+      "src": "https://urfu.ru/en/",
+      "university": "Ural Federal University",
+      "country": "Russia",
+      "city": "Yekaterinburg",
+      "period": "September 2014 - July 2017",
+      "shortPeriod": "(2014 - 2017)",
+      "degree": "Bachelor",
+      "image": "/api/upload/educations/urfu.png"
+    }
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "1",
+    "order": 1,
+    "data": {
+      "title": "Gen-Art",
+      "description": "Landing and online store of handmade pictures made with String Art technique.\nThe application is service for viewing and ordering pictures. Admin panel also was designed. It can be used by application administrator for pages content changes and orders and reviews controlling. Administrator authentication was implemented with json web token technique.",
+      "descriptionPreview": "Online store and constructor",
+      "image": "/api/upload/projects/gen-art.jpg",
+      "src": "http://gen-art.art",
+      "paragraphs": {
+        "position": {
+          "title": "Position",
+          "content": "Fullstack developer"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "content": [
+            "Labor estimating",
+            "Selection of technologies (framework and third-party libraries) to solve the tasks set by the customer",
+            "Designing application architecture (back/front)",
+            "Designing REST API",
+            "Application deployment"
+          ]
+        },
+        "stack": {
+          "title": "Tech stack",
+          "pictures": [
+            "/api/upload/skills/nodejs.png",
+            "/api/upload/skills/typescript.png",
+            "/api/upload/skills/nextjs.png",
+            "/api/upload/skills/reactjs.png",
+            "/api/upload/skills/redux.png",
+            "/api/upload/skills/sass.jpeg"
+          ],
+          "content": [
+            "[TypeScript](https://www.typescriptlang.org/)",
+            "[Node.js](https://nodejs.org/)",
+            "[express](https://expressjs.com/)",
+            "[REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api)",
+            "[Next.js](https://nextjs.org/)",
+            "[Redux-Toolkit](https://redux-toolkit.js.org/)",
+            "[SCSS](https://sass-lang.com/)"
+          ]
+        },
+        "integration": {
+          "title": "Integration",
+          "content": [
+            "[Robokassa](https://robokassa.com/)",
+            "[SDEK](https://www.cdek.ru/)",
+            "[Russian post](https://www.pochta.ru)",
+            "[Yandex Metrika](https://yandex.ru/support/metrica/?lang=en)"
+          ]
+        },
+        "implementationPeriod": {
+          "title": "Implementation period",
+          "content": "March 2021 - July 2022"
+        }
+      }
+    }
+  },
+  {
+    "id": "2",
+    "order": 2,
+    "data": {
+      "title": "Surdoclass",
+      "description": "This application is a database of paid and free courses, divided into video lessons with sign language translation; buying and viewing courses is available only to authorized users in the system.\nIt is possible to maintain a personal profile (personal data and avatar). Some profile data is used in the recommendations block (see below).\nThere is a system for commenting lessons/courses. (The application is waiting realise)",
+      "descriptionPreview": "Educational service for people with disabilities",
+      "image": "/api/upload/projects/surdoclass.jpeg",
+      "src": "https://qa2.surdoclass.ru/",
+      "paragraphs": {
+        "position": {
+          "title": "Position",
+          "content": "Frontend developer"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "content": [
+            "Labor estimating",
+            "Selection of technologies (framework and third-party libraries) to solve the tasks set by the customer",
+            "Designing application architecture",
+            "Designing react components",
+            "Analytics block design",
+            "Designing recommendations block"
+          ]
+        },
+        "stack": {
+          "title": "Tech stack",
+          "pictures": [
+            "/api/upload/skills/nextjs.png",
+            "/api/upload/skills/typescript.png",
+            "/api/upload/skills/reactjs.png",
+            "/api/upload/skills/redux.png",
+            "/api/upload/skills/sass.jpeg"
+          ],
+          "content": [
+            "[TypeScript](https://www.typescriptlang.org/)",
+            "[Next.js](https://nextjs.org/)",
+            "[Redux-Toolkit](https://redux-toolkit.js.org/)",
+            "[SCSS](https://sass-lang.com/)"
+          ]
+        },
+        "integration": {
+          "title": "Integration",
+          "content": [
+            "[Robokassa](https://robokassa.com/)"
+          ]
+        },
+        "implementationPeriod": {
+          "title": "Implementation period",
+          "content": "March 2021 - June 2022"
+        }
+      }
+    }
+  },
+  {
+    "id": "3",
+    "order": 3,
+    "data": {
+      "title": "Skillmaps",
+      "description": "A service that allows you to create a personal competency card in the field of IT (programming) and subsequently generate a CV.\nA choice of specializations and skills in them are provided. in this way, the user can visually assess his development progress in the field of IT (for this, a progress bar has been implemented that displays the progress of filling with the skills of a particular specialization)",
+      "descriptionPreview": "Personal skill maps",
+      "image": "/api/upload/projects/skillmaps.png",
+      "src": "https://skillmaps.ru/",
+      "paragraphs": {
+        "position": {
+          "title": "Position",
+          "content": "Fullstack developer"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "content": [
+            "React-components designing",
+            "Extension of the application functionality",
+            "Designing new API endpoints"
+          ]
+        },
+        "stack": {
+          "title": "Tech stack",
+          "pictures": [
+            "/api/upload/skills/nodejs.png",
+            "/api/upload/skills/typescript.png",
+            "/api/upload/skills/nextjs.png",
+            "/api/upload/skills/reactjs.png",
+            "/api/upload/skills/redux.png",
+            "/api/upload/skills/sass.jpeg"
+          ],
+          "content": [
+            "[TypeScript](https://www.typescriptlang.org/)",
+            "[Node.js](https://nodejs.org/)",
+            "[express](https://expressjs.com/)",
+            "[REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api)",
+            "[Next.js](https://nextjs.org/)",
+            "[Redux-Toolkit](https://redux-toolkit.js.org/)",
+            "[SCSS](https://sass-lang.com/)"
+          ]
+        },
+        "integration": {
+          "title": "Integration",
+          "content": [
+            "[Boosty](https://boosty.to/)"
+          ]
+        },
+        "implementationPeriod": {
+          "title": "Implementation period",
+          "content": "June 2021 - now"
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "order": 4,
+    "data": {
+      "title": "PWC",
+      "description": "Service for the sale of educational courses in the field of management, consulting, etc. Users are both potential buyers and companies that advertise and sell courses.",
+      "descriptionPreview": "Online store of courses",
+      "image": "/api/upload/projects/pwc.jpeg",
+      "src": "https://training.tedo.ru/",
+      "paragraphs": {
+        "position": {
+          "title": "Position",
+          "content": "Frontend developer"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "content": [
+            "Designing react components"
+          ]
+        },
+        "stack": {
+          "title": "Tech stack",
+          "pictures": [
+            "/api/upload/skills/javascript.png",
+            "/api/upload/skills/reactjs.png",
+            "/api/upload/skills/sass.jpeg",
+            "/api/upload/skills/html.png"
+          ],
+          "content": [
+            "[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)",
+            "[ReactJS](https://en.reactjs.org/)",
+            "[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)",
+            "[SCSS](https://sass-lang.com/)"
+          ]
+        },
+        "integration": {
+          "title": "Integration",
+          "content": [
+            "[Yandex Metrika](https://yandex.ru/support/metrica/?lang=en)"
+          ]
+        },
+        "implementationPeriod": {
+          "title": "Implementation period",
+          "content": "December 2021 - February 2022"
+        }
+      }
+    }
+  },
+  {
+    "id": "5",
+    "order": 5,
+    "data": {
+      "title": "Rusvinyl",
+      "description": "Online store selling PVC.\nThe application allows you to register in the system, buy goods from the catalog, order delivery from available warehouses.\nA related project is an online store administration panel that creates the ability to manage orders and contractors.",
+      "descriptionPreview": "PVC materials store",
+      "image": "/api/upload/projects/rusvinyl.jpeg",
+      "src": "https://shop.rusvinyl.ru/catalog/PVC-S",
+      "paragraphs": {
+        "position": {
+          "title": "Position",
+          "content": "Frontend developer"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "content": [
+            "Designing react-components"
+          ]
+        },
+        "stack": {
+          "title": "Tech stack",
+          "pictures": [
+            "/api/upload/skills/typescript.png",
+            "/api/upload/skills/nextjs.png",
+            "/api/upload/skills/reactjs.png",
+            "/api/upload/skills/redux.png",
+            "/api/upload/skills/sass.jpeg"
+          ],
+          "content": [
+            "[TypeScript](https://www.typescriptlang.org/)",
+            "[Next.js](https://nextjs.org/)",
+            "[Redux-Toolkit](https://redux-toolkit.js.org/)",
+            "[SCSS](https://sass-lang.com/)"
+          ]
+        },
+        "integration": {
+          "title": "Integration",
+          "content": [
+            "[Yandex Metrika](https://yandex.ru/support/metrica/?lang=en)"
+          ]
+        },
+        "implementationPeriod": {
+          "title": "Implementation period",
+          "content": "December 2021 - February 2022"
+        }
+      }
+    }
+  },
+  {
+    "id": "6",
+    "order": 6,
+    "data": {
+      "title": "Etag",
+      "description": "ETag is an electronic business card in which you can specify links to all your social networks and contacts. That will allow anyone who leans the phone to go to the social. network, make a call, start a chat, open a website, tip, get directions, share a playlist or portfolio, and so on.",
+      "descriptionPreview": "Social network for electronic business cards",
+      "image": "/api/upload/projects/etag.png",
+      "src": "https://my.etag.store/hans_andersen",
+      "paragraphs": {
+        "position": {
+          "title": "Position",
+          "content": "Frontend developer"
+        },
+        "responsibilities": {
+          "title": "Responsibilities",
+          "content": [
+            "react-components designing"
+          ]
+        },
+        "stack": {
+          "title": "Tech stack",
+          "pictures": [
+            "/api/upload/skills/reactjs.png",
+            "/api/upload/skills/javascript.png",
+            "/api/upload/skills/redux.png",
+            "/api/upload/skills/sass.jpeg"
+          ],
+          "content": [
+            "[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)",
+            "[ReactJS](https://en.reactjs.org/)",
+            "[Redux-Toolkit](https://redux-toolkit.js.org/)",
+            "[SCSS](https://sass-lang.com/)"
+          ]
+        },
+        "integration": {
+          "title": "Integration",
+          "content": []
+        },
+        "implementationPeriod": {
+          "title": "Implementation period",
+          "content": "October 2021 - December 2021"
+        }
+      }
+    }
+  }
+]
