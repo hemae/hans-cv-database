@@ -8,7 +8,7 @@
       "src": "https://mechanica.agency/",
       "image": "/api/upload/experiences/mechanica.png",
       "shortPeriod": "2021 - now",
-      "period": "November 2021 - now",
+      "period": "October 2021 - now",
       "responsibilities": "Designing react components, implementation of new features, fixing bugs, reworking the old (legacy) react code into a new one that meets new standards (class → functional with hooks)."
     }
   },
@@ -20,7 +20,7 @@
       "src": "https://buy.etag.store",
       "image": "/api/upload/experiences/etag.png",
       "shortPeriod": "2020-2021",
-      "period": "September 2020 - November 2021",
+      "period": "June 2020 - October 2021",
       "responsibilities": "Designing react components (redux toolkit, typescript). Selenium and unit testing."
     }
   }
