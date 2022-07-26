@@ -8,6 +8,7 @@
       "descriptionPreview": "Online store and constructor",
       "image": "/api/upload/projects/gen-art.jpg",
       "src": "http://gen-art.art",
+      "type": "Solo",
       "paragraphs": {
         "position": {
           "title": "Position",
@@ -68,6 +69,7 @@
       "descriptionPreview": "Educational service for people with disabilities",
       "image": "/api/upload/projects/surdoclass.jpeg",
       "src": "https://qa2.surdoclass.ru/",
+      "type": "Solo",
       "paragraphs": {
         "position": {
           "title": "Position",
@@ -122,6 +124,7 @@
       "descriptionPreview": "Personal skill maps",
       "image": "/api/upload/projects/skillmaps.png",
       "src": "https://skillmaps.ru/",
+      "type": "Team",
       "paragraphs": {
         "position": {
           "title": "Position",
@@ -177,6 +180,7 @@
       "descriptionPreview": "Online store of courses",
       "image": "/api/upload/projects/pwc.jpeg",
       "src": "https://training.tedo.ru/",
+      "type": "Team",
       "paragraphs": {
         "position": {
           "title": "Position",
@@ -225,6 +229,7 @@
       "descriptionPreview": "PVC materials store",
       "image": "/api/upload/projects/rusvinyl.jpeg",
       "src": "https://shop.rusvinyl.ru/catalog/PVC-S",
+      "type": "Team",
       "paragraphs": {
         "position": {
           "title": "Position",
@@ -274,6 +279,7 @@
       "descriptionPreview": "Social network for electronic business cards",
       "image": "/api/upload/projects/etag.png",
       "src": "https://my.etag.store/hans_andersen",
+      "type": "Team",
       "paragraphs": {
         "position": {
           "title": "Position",

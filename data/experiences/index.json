@@ -4,10 +4,11 @@
     "order": 1,
     "data": {
       "title": "Mechanica",
+      "type": "remote",
       "src": "https://mechanica.agency/",
       "image": "/api/upload/experiences/mechanica.png",
       "shortPeriod": "2021 - now",
-      "period": "December 2021 - now",
+      "period": "November 2021 - now",
       "responsibilities": "Designing react components, implementation of new features, fixing bugs, reworking the old (legacy) react code into a new one that meets new standards (class → functional with hooks)."
     }
   },
@@ -19,7 +20,7 @@
       "src": "https://buy.etag.store",
       "image": "/api/upload/experiences/etag.png",
       "shortPeriod": "2021",
-      "period": "May 2021 - November 2021",
+      "period": "March 2021 - November 2021",
       "responsibilities": "Designing react components (redux toolkit, typescript). Selenium and unit testing."
     }
   }

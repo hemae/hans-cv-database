@@ -6,7 +6,7 @@
     "title": null,
     "data": {
       "heroImage": "/api/upload/sections/hero-image.png",
-      "firstName": "Andrei",
+      "firstName": "Andrey",
       "lastName": "Arkhipov",
       "job": "Hardworking and passionate full-stack developer",
       "stack": "Node.js, Next.js, ReactJS, TypeScript",
@@ -34,43 +34,52 @@
     "updatedAt": "123"
   },
   {
-    "id": "2-links",
+    "id": "2-description",
     "order": 2,
+    "name": "Description",
+    "title": null,
+    "data": {
+      "description": "Hardworking and passionate full-stack developer. ***Pedantry***, ***determination*** and ***commitment in every project*** are my main strengths.\n\nI took a part in private as well as commercial projects. [Below](#5-projects) you can see several of them.\n\nI am looking forward to become a part of your team \uD83D\uDE09"
+    }
+  },
+  {
+    "id": "3-links",
+    "order": 3,
     "name": "Links",
     "title": null,
     "data": null
   },
   {
-    "id": "3-experience",
-    "order": 3,
+    "id": "4-experience",
+    "order": 4,
     "name": "Experience",
     "title": "Experience",
     "data": null
   },
   {
-    "id": "4-projects",
-    "order": 4,
+    "id": "5-projects",
+    "order": 5,
     "name": "Projects",
     "title": "Projects",
     "data": null
   },
   {
-    "id": "5-skills",
-    "order": 5,
+    "id": "6-skills",
+    "order": 6,
     "name": "Skills",
     "title": "Skills",
     "data": null
   },
   {
-    "id": "6-educations",
-    "order": 6,
+    "id": "7-educations",
+    "order": 7,
     "name": "Educations",
     "title": "Education",
     "data": null
   },
   {
-    "id": "7-languages",
-    "order": 7,
+    "id": "8-languages",
+    "order": 8,
     "name": "Languages",
     "title": "Languages",
     "data": null
