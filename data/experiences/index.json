@@ -19,8 +19,8 @@
       "title": "eTag",
       "src": "https://buy.etag.store",
       "image": "/api/upload/experiences/etag.png",
-      "shortPeriod": "2021",
-      "period": "March 2021 - November 2021",
+      "shortPeriod": "2020-2021",
+      "period": "September 2020 - November 2021",
       "responsibilities": "Designing react components (redux toolkit, typescript). Selenium and unit testing."
     }
   }
